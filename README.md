@@ -1,2 +1,2 @@
 # C207-L2
-Script MySQL Laboratório
+Aula Banco de Dados Laboratório - MySQL
